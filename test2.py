@@ -36,7 +36,7 @@ def parse_and_save():
     driver = webdriver.Chrome(service=service)
 
     # Ссылки для парсинга и названия каналов
-    a = [
+    a = [     
         "https://t.me/s/ruarbitr?q=%D0%90%D1%80%D0%B1%D0%B8%D1%82%D1%80%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9+%D1%81%D1%83%D0%B4", 
         "https://t.me/s/SPbGS",
         "https://t.me/s/povorotnapravo"
